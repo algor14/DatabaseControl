@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\obj\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\Student\Documents\DatabaseControl\EntityFramework\obj\Debug\EntityFramework.pdb
