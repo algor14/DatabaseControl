@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DatabaseControl
 {
-    class LibraryContext : DbContext
+    internal class User
     {
-        public DbSet<User> Users { get; set; }
-        public DbSet<Book> Books { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int? Age { get; set; }
     }
 }

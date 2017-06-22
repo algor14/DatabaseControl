@@ -4,3 +4,9 @@ C:\Users\Student\Documents\DatabaseControl\DatabaseControl\bin\Debug\DatabaseCon
 C:\Users\Student\Documents\DatabaseControl\DatabaseControl\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
 C:\Users\Student\Documents\DatabaseControl\DatabaseControl\obj\Debug\DatabaseControl.exe
 C:\Users\Student\Documents\DatabaseControl\DatabaseControl\obj\Debug\DatabaseControl.pdb
+D:\WORK\!NetCourses\DatabaseControl\DatabaseControl\DatabaseControl\bin\Debug\DatabaseControl.exe.config
+D:\WORK\!NetCourses\DatabaseControl\DatabaseControl\DatabaseControl\obj\Debug\DatabaseControl.exe
+D:\WORK\!NetCourses\DatabaseControl\DatabaseControl\DatabaseControl\obj\Debug\DatabaseControl.pdb
+D:\WORK\!NetCourses\DatabaseControl\DatabaseControl\DatabaseControl\bin\Debug\DatabaseControl.exe
+D:\WORK\!NetCourses\DatabaseControl\DatabaseControl\DatabaseControl\bin\Debug\DatabaseControl.pdb
+D:\WORK\!NetCourses\DatabaseControl\DatabaseControl\DatabaseControl\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
